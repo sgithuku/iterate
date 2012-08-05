@@ -1,0 +1,71 @@
+---
+layout: default
+comments: false
+---
+ {% include head.html %}
+ <body>
+<div class="container">
+	<div class ="row">
+  			<div class="three columns" id="sidebar">
+				<a href="../../index.html"><img src="../../images/Header4.png" class="header"></a>
+				<h2 class="subheader">Inspiration. Tech. Finance. Kenya.</h2>
+				<ul class="side-nav">
+				  <li><a href="#" data-reveal-id="myModal" class="icon-book-open">topics</a></li>
+				  <li><a href="../about.html" class="icon-battery">about</a></li>
+				  <li><a href="http://twitter.com/shaun_g" class="icon-twitter-1">@shaun_g</a></li>
+				  <li><a href="http://500px.com/shaun_g" class="icon-picture">photography</a></li>
+				</ul>
+
+
+			</div>
+
+	<div class = "one column"></div>
+	<div class="five columns end">
+	<br />	<br />
+		<h2>{{ page.title }}</h2>
+
+		<ul class="posts">
+		{% for post in site.categories[page.category] %}
+		     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+			{% if post.image %}
+			<div class="featured_image"><a href="{{ post.url }}"><img src="{{ post.image }}" title="{{ post.title }}" alt="{{ post.title }}" /></a></div>
+			{% endif %}
+			<div class="excerpt">{{ post.content | extract_excerpt }} <a href="{{post.url}}" class="button full-width">continue reading</a></div>
+		     <div class="categories">Filed under {{ post.categories | category_links }}</div>
+		{% endfor %}
+		</ul>
+
+	 		</div>
+	</div>
+</div>
+ 		<div class="row footer">
+			<div class="five columns push-four">
+			<p>All rights reserved. <a href="http://www.tokeninkdesign.com">Token Ink Design</a></p>
+			</div>
+		</div>
+		<div id="myModal" class="reveal-modal">
+		<h3>Stuff I write about</h3>
+			<ul class="side-nav">
+				<li><a href="../../categories/inspiration/index.html">inspiration</a></li>
+			    <li><a href="../../categories/Kenya/index.html">Kenya</a></li>
+			    <li><a href="../../categories/tech/index.html">technology</a></li>
+			    <li><a href="../../categories/finance/index.html">finance</a></li>
+		    </ul>
+	</div>
+
+	<!-- Included JS Files -->
+	<script src="../../assets/javascripts/jquery.min.js"></script>
+	<script src="../../assets/javascripts/foundation/jquery.reveal.js"></script>
+	
+</body>
+
+
+</html>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('#buttonForModal').click(function() {
+      $('#myModal').reveal();
+    });
+  });
+</script>

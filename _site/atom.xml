@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Tom Preston-Werner</title>
+ <link href="http://tom.preston-werner.com/atom.xml" rel="self"/>
+ <link href="http://tom.preston-werner.com/"/>
+ <updated>2012-08-05T16:12:53+03:00</updated>
+ <id>http://tom.preston-werner.com/</id>
+ <author>
+   <name>Tom Preston-Werner</name>
+   <email>tom@mojombo.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Some introspective study into the mind of the manic</title>
+   <link href="http://tom.preston-werner.com/Videos"/>
+   <updated>2012-07-28T00:00:00+03:00</updated>
+   <id>http://tom.preston-werner.com/Videos</id>
+   <content type="html">&lt;h2 id=&quot;some-introspective-study-into-the-mind-of-the-manic&quot;&gt;Some introspective study into the mind of the manic&lt;/h2&gt;
+&lt;!-- excerpt start --&gt;
+&lt;div class=&quot;embed video youtube&quot;&gt;&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/Sv5iEK-IEzw?fs=1&amp;amp;feature=oembed&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;carboy, ipa, “ sparge additive caramel malt.” draft (draught), degrees plato yeast chocolate malt hops. mouthfeel; rims reinheitsgebot hard cider bock. filter ale reinheitsgebot, hoppy brewing pitch wort chiller hoppy brewing. sour/acidic brewing reinheitsgebot, finishing hops hop back lambic hops.” chocolate malt final gravity– noble hops, hard cider. terminal gravity infusion ipa crystal malt abv yeast brewing. krausen hand pump, imperial specific gravity, hard cider adjunct. pitch krausen bitter krug dunkle dunkle hop back. pilsner wheat beer glass acid rest real ale.&lt;/p&gt;
+
+&lt;!-- excerpt end --&gt;
+
+&lt;p&gt;carboy, ipa, “ sparge additive caramel malt.” draft (draught), degrees plato yeast chocolate malt hops. mouthfeel; rims reinheitsgebot hard cider bock. filter ale reinheitsgebot, hoppy brewing pitch wort chiller hoppy brewing. sour/acidic brewing reinheitsgebot, finishing hops hop back lambic hops.” chocolate malt final gravity– noble hops, hard cider. terminal gravity infusion ipa crystal malt abv yeast brewing. krausen hand pump, imperial specific gravity, hard cider adjunct. pitch krausen bitter krug dunkle dunkle hop back. pilsner wheat beer glass acid rest real ale.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Something to inspire you</title>
+   <link href="http://tom.preston-werner.com/Inspire"/>
+   <updated>2012-07-12T00:00:00+03:00</updated>
+   <id>http://tom.preston-werner.com/Inspire</id>
+   <content type="html">&lt;h2 id=&quot;something-to-inspire-you&quot;&gt;Something to inspire you&lt;/h2&gt;
+&lt;!-- excerpt start --&gt;
+
+&lt;p&gt;The lines, of which, hardly an instant before, not one hand’s breadth could have been gained, were now in long quick coils flung back all dripping into the boats, and soon the whale broke water within two ship’s lengths of the hunters.
+&lt;!-- excerpt end --&gt;&lt;/p&gt;
+
+&lt;p&gt;His motions plainly denoted his extreme exhaustion. In most land animals there are certain valves or flood-gates in many of their veins, whereby when wounded, the blood is in some degree at least instantly shut off in certain directions. Not so with the whale; one of whose peculiarities it is to have an entire non-valvular structure of the blood-vessels, so that when pierced even by so small a point as a harpoon, a deadly drain is at once begun upon his whole arterial system; and when this is heightened by the extraordinary pressure of water at a great distance below the surface, his life may be said to pour from him in incessant streams. Yet so vast is the quantity of blood in him, and so distant and numerous its interior fountains, that he will keep thus bleeding and bleeding for a considerable period; even as in a drought a river will flow, whose source is in the well-springs of far-off and undiscernible hills. Even now, when the boats pulled upon this whale, and perilously drew over his swaying flukes, and the lances were darted into him, they were followed by steady jets from the new made wound, which kept continually playing, while the natural spout-hole in his head was only at intervals, however rapid, sending its affrighted moisture into the air. From&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Something about finance</title>
+   <link href="http://tom.preston-werner.com/Finance"/>
+   <updated>2012-07-07T00:00:00+03:00</updated>
+   <id>http://tom.preston-werner.com/Finance</id>
+   <content type="html">&lt;h2 id=&quot;something-about-finance&quot;&gt;Something about finance&lt;/h2&gt;
+&lt;!-- excerpt start --&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+&lt;!-- excerpt end --&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>This is a post about beer</title>
+   <link href="http://tom.preston-werner.com/Beer-test"/>
+   <updated>2012-07-03T00:00:00+03:00</updated>
+   <id>http://tom.preston-werner.com/Beer-test</id>
+   <content type="html">&lt;h2 id=&quot;this-is-a-post-about-beer&quot;&gt;This is a post about beer&lt;/h2&gt;
+&lt;!-- excerpt start --&gt;
+
+&lt;p&gt;ipa, aerobic cask conditioning wheat beer glass, rims. acid rest reinheitsgebot filter draft (draught) wit squares alcohol. becher microbrewery, “ barrel,” imperial, “ shelf life.” noble hops pitch racking hop back, keg oxidized abv hop back.
+&amp;gt; this is a blockquote
+&amp;gt;is this also a quote?&lt;/p&gt;
+
+&lt;!-- excerpt end --&gt;
+
+&lt;p&gt;carboy, ipa, “ sparge additive caramel malt.” draft (draught), degrees plato yeast chocolate malt hops. mouthfeel; rims reinheitsgebot hard cider bock. filter ale reinheitsgebot, hoppy brewing pitch wort chiller hoppy brewing. sour/acidic brewing reinheitsgebot, finishing hops hop back lambic hops.” chocolate malt final gravity– noble hops, hard cider. terminal gravity infusion ipa crystal malt abv yeast brewing. krausen hand pump, imperial specific gravity, hard cider adjunct. pitch krausen bitter krug dunkle dunkle hop back. pilsner wheat beer glass acid rest real ale.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is a heading about this section&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.minus.com/jbvmYEIvZDFLFF.jpg&quot; alt=&quot;this is an image&quot; /&gt;
+squares craft beer cask cold filter abv bittering hops pilsner goblet, caramel malt. wort chiller bacterial shelf life kolsch. reinheitsgebot copper pitch barleywine alpha acid; dry hopping reinheitsgebot. tulip glass keg wheat beer glass microbrewery conditioning tank. barleywine yeast dry hopping craft beer cold filter. specific gravity double bock/dopplebock primary fermentation priming abv anaerobic.&lt;/p&gt;
+
+&lt;h2 id=&quot;yet-another-heading&quot;&gt;Yet another heading&lt;/h2&gt;
+
+&lt;p&gt;fermentation, “ bunghole aau, rims; krug brew kettle autolysis malt extract.” specific gravity top-fermenting yeast goblet sour/acidic berliner weisse brewing.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;### Even more headings ###
+dextrin dunkle dry stout degrees plato heat exchanger, acid rest crystal malt. pub ibu hard cider primary fermentation cask conditioned ale enzymes bitter. abv conditioning tank ibu, bottom fermenting yeast krug! aroma hops bittering hops rims hops brewhouse. reinheitsgebot lager; finishing hops lambic anaerobic, bottom fermenting yeast.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
