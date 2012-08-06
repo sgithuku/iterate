@@ -36,7 +36,6 @@ GEM
     netrc (0.7.5)
     posix-spawn (0.3.6)
     rake (0.9.2.2)
-    rdiscount (1.6.8)
     rest-client (1.6.7)
       mime-types (>= 1.16)
     rubyzip (0.9.9)
@@ -50,5 +49,5 @@ DEPENDENCIES
   foreman
   heroku
   jekyll (~> 0.11.2)
+  kramdown
   rake
-  rdiscount
