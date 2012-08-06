@@ -2,7 +2,7 @@ markdown: rdiscount
 pygments: true
 paginate: 2
 permalink: /:title
-exclude: ["currentversion",".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
+exclude: ["currentversion", ".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
 safe: false
 embedly:
   api_key: 2f00b22bc6a345cca1775594796280ea
