@@ -7,6 +7,8 @@ GEM
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
     directory_watcher (1.4.1)
+    domainatrix (0.0.10)
+      addressable
     excon (0.15.5)
     fast-stemmer (1.0.1)
     foreman (0.53.0)
@@ -46,6 +48,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  domainatrix
   foreman
   heroku
   jekyll (~> 0.11.2)
