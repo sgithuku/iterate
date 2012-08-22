@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-      <loc>/Videos</loc>
-      <lastmod>2012-07-28</lastmod>
+      <loc>/The-Battle-For-Mobile-Supremacy</loc>
+      <lastmod>2012-09-01</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/Inspire</loc>
-      <lastmod>2012-07-12</lastmod>
-      <changefreq>never</changefreq>
-  </url>
-  <url>
-      <loc>/Finance</loc>
-      <lastmod>2012-07-07</lastmod>
-      <changefreq>never</changefreq>
-  </url>
-  <url>
-      <loc>/Beer-test</loc>
-      <lastmod>2012-07-03</lastmod>
+      <loc>/About</loc>
+      <lastmod>2012-08-23</lastmod>
       <changefreq>never</changefreq>
   </url>
 </urlset>
