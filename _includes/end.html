@@ -3,28 +3,7 @@
 			<p>All rights reserved. <a href="http://www.tokeninkdesign.com">Token Ink Design</a></p>
 			</div>
 		</div>
-		<div id="myModal" class="reveal-modal">
-		<h3>Stuff I write about</h3>
-			<ul class="side-nav">
-				{% for category in site.categories limit:7 %}
-				<li><a href="../categories/{{ category[0] }}.html">{{ category[0] }}</a></li>
-				{% endfor %}
-			</ul>
-	</div>
-
-	<!-- Included JS Files -->
-	<script src="../assets/javascripts/jquery.min.js"></script>
-	<script src="../assets/javascripts/foundation/jquery.reveal.js"></script>
-	
 </body>
 
 
 </html>
-
-<script type="text/javascript">
-  $(document).ready(function() {
-    $('#buttonForModal').click(function() {
-      $('#myModal').reveal();
-    });
-  });
-</script>

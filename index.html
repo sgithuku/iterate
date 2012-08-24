@@ -14,13 +14,16 @@ layout: default
 			<div class="five columns content">
 				<div id ="post">
 			  			{% for post in paginator.posts %}
+			  			{% unless post.draft %}
 					      <div class="featured_image"><a href="{{ post.url }}"><img src="{{ post.image }}" title="{{ post.title }}" alt="" /></a></div>
 					      <div class="title"><h2><a href="{{ post.url }}">{{post.title }}</a></h2></div>
 					      <!---<div class="date">Posted in {{ post.date | date: "%B %Y" }}</div> -->
 					      <div class="excerpt">{{ post.content | extract_excerpt }} <a href="{{post.url}}" class="button full-width">continue reading</a></div>
+					  {% endunless %}
 					  {% endfor %}
 				</div>
 
+			{% unless paginator.total_pages == 1 %}
 			<!-- Pagination links -->
 			<div id="post-pagination" class="pagination">
 
@@ -69,6 +72,7 @@ layout: default
 			  {% endif %}
 
 			</div>
+			{% endunless %}
 			</div>
 			<div class="one columns end"></div>
 

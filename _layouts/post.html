@@ -11,9 +11,11 @@ layout: default
 	<div class="five columns end">
 			{{ content }}
 			<br />
-	  <h4>Related Posts</h4>
 	    {% for post in site.related_posts limit:3 %}
+	    {% unless post.draft %}
+	  <h4>Related Posts</h4>
 	      <span class="related_links">{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" class="related_title">{{ post.title }}</a><br /><br />
+	    {% endunless%}
 	    {% endfor %}
 
 			{% if page.comments %}
