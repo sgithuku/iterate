@@ -3310,3 +3310,8 @@ a[class*=" icon-"]:hover:before {
   height: 100%;
   margin-bottom: 20px;
 }
+
+
+.content{
+  margin-top: 150px;
+}
